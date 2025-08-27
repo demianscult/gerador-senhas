@@ -1,16 +1,18 @@
 # Gerador de Senhas 🔐
 
-Projeto em Python que gera **senhas fortes de 12 caracteres**, misturando letras maiúsculas, minúsculas, números e símbolos.
+# Portifólio - Evel System ⭐
+Esse projeto faz parte do meu **portifólio pessoal Evel System**, que reúne projetos voltados para **dados, automações e cibersegurança**. 
 
-O objetivo é praticar lógica de programação, manipulação de strings e criar algo **útil e seguro**.
-
----
+Meu objetivo é praticar lógica de programação, boas práticas de segurança e criatividade na construção de ferramentas úteis.
 
 ## ⚙️ Como funciona
+
+Projeto em Python que gera senhas fortes de 12 caracteres, misturando letras maiúsculas, minúsculas, números e símbolos.
 
 - Importe as bibliotecas:
   - `secrets` → para gerar caracteres de forma **segura e imprevisível**.
   - `string` → para acessar listas prontas de letras, números e símbolos.
+    
 - Defina a função `gerar_senha()` que:
   1. Junta letras, números e símbolos em uma única lista.
   2. Sorteia **12 caracteres aleatórios** dessa lista.
@@ -24,4 +26,7 @@ O objetivo é praticar lógica de programação, manipulação de strings e cria
     print("Senha gerada:", gerar_senha())
 
 ## Exemplo de saída
-<img width="208" height="25" alt="image" src="https://github.com/user-attachments/assets/95c766e3-7e2d-499c-8aff-945f9741bd4b" />
+<img width="210" height="27" alt="image" src="https://github.com/user-attachments/assets/38b92a3a-04cd-4737-83c8-9b1ccdc11a4d" />
+
+
+## 
