@@ -25,7 +25,7 @@ Projeto em Python que gera senhas fortes de 12 caracteres, misturando letras mai
 3. Rode a linha abaixo para gerar e visualizar a senha:
     print("Senha gerada:", gerar_senha())
 
-## Exemplo de saída
+## 📤 Exemplo de saída
 <img width="210" height="27" alt="image" src="https://github.com/user-attachments/assets/38b92a3a-04cd-4737-83c8-9b1ccdc11a4d" />
 
 
