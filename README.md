@@ -1,6 +1,6 @@
 # Gerador de Senhas 🔐
 
-Esse projeto faz parte do meu **portifólio pessoal Evel System ⭐**, que reúne projetos voltados para **dados, automações e cibersegurança**. 
+Esse projeto faz parte do meu **portfólio pessoal Evel System ⭐**, que reúne projetos voltados para **dados, automações e cibersegurança**. 
 
 Meu objetivo é praticar lógica de programação, boas práticas de segurança e criatividade na construção de ferramentas úteis.
 
